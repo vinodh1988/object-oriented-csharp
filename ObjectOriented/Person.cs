@@ -56,7 +56,7 @@ namespace ObjectOriented
             this.city = city;
         }
     public void Show() {
-            Console.WriteLine("Sno: {0}", sno);
+            Console.WriteLine("Sno: {0} ", sno);
             Console.WriteLine("Name: {0}", name);
             Console.WriteLine("City: {0}", city);
         }
