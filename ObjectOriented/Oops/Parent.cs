@@ -20,7 +20,11 @@ namespace ObjectOriented.Oops
             this.a = a;
         }
 
-        public void Show()
+        public void OnlyForA() {
+            Console.WriteLine("only for A");
+        }
+
+        public virtual void Show()
         {
             Console.WriteLine("A: " + a);
         }
@@ -41,6 +45,12 @@ namespace ObjectOriented.Oops
             
             Console.WriteLine("Child parameterized constructor");
             this.b = b;
+            
+        }
+        //method overriding
+        public override void Show() {
+            base.Show();
+            Console.Write("B: " + b);
         }
 
         public void Display()
