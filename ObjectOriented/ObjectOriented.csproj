@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ObjectOriented.Executables.StaticDemo</StartupObject>
+    <StartupObject>ObjectOriented.Executables.InheritanceDemo</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -15,15 +15,18 @@ namespace ObjectOriented.Executables
         static void Main(string[] n)
         {
             InstanceVsClass x = new InstanceVsClass("one");
-            InstanceVsClass y = new InstanceVsClass("two");
-            InstanceVsClass z = new InstanceVsClass("three");
-
             x.Show();
             ShowLine();
+            InstanceVsClass y = new InstanceVsClass("two");
             y.Show();
             ShowLine();
+            InstanceVsClass z = new InstanceVsClass("three");
             z.Show();
             ShowLine();
+
+            
+        
+        
 
             InstanceVsClass.Print();
            // x.Print();
