@@ -1,0 +1,14 @@
+D:\microsoft\ObjectOriented\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.exe
+D:\microsoft\ObjectOriented\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.deps.json
+D:\microsoft\ObjectOriented\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.runtimeconfig.json
+D:\microsoft\ObjectOriented\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.runtimeconfig.dev.json
+D:\microsoft\ObjectOriented\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.dll
+D:\microsoft\ObjectOriented\ObjectOriented\bin\Debug\netcoreapp3.1\ObjectOriented.pdb
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.csproj.AssemblyReference.cache
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.AssemblyInfoInputs.cache
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.AssemblyInfo.cs
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.csproj.CoreCompileInputs.cache
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.dll
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.pdb
+D:\microsoft\ObjectOriented\ObjectOriented\obj\Debug\netcoreapp3.1\ObjectOriented.genruntimeconfig.cache
