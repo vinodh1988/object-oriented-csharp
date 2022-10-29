@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ObjectOriented": {
+      "commandName": "Project",
+      "commandLineArgs": "stove car van"
+    }
+  }
+}
