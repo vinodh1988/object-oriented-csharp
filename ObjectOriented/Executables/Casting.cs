@@ -16,7 +16,7 @@ namespace ObjectOriented.Executables
             B b2 = new C();
             C c  = (C)obj2; //convertible
             C c2 = (C)b2; //convertible
-            C c1 = (C)b1; // not convertible
+            //C c1 = (C)b1; // not convertible
           
         
         }

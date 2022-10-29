@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ObjectOriented.Executables.Casting</StartupObject>
+    <StartupObject>ObjectOriented.Executables.ObjectDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
