@@ -16,9 +16,9 @@ namespace ObjectOriented.InheritanceSet
             Console.WriteLine("ShowC");
         }
 
-    /*    public override void Show()
+      public override void Show()
         {
             Console.WriteLine("Show Method of C");
-        }*/
+        }
     }
 }
