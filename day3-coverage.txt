@@ -1,0 +1,20 @@
+
+1. Struct
+2. Enum
+
+-----------------------------
+
+OOP
+               1. Encapsulation
+			   2. Abstraction
+			   3. Polymorphism
+			   4. Inheritance
+			   
+Relationships
+                1. Generalization
+				2. Aggregation
+				3. Composition
+				
+				Generalization ( IS-A)
+				Aggregation & Composition (HAS-A)
+				
